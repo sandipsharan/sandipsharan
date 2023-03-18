@@ -12,7 +12,7 @@
 - 📫 Email: sandip26@umd.edu 
 - 😄 Pronouns: He/Him
 
-<a href="https://www.linkedin.com/in/anukriti-singh-07583b142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sandip26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"></a>
 
 - Skills
 
