@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/Him
 
 <a href="https://www.linkedin.com/in/sandip26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"></a>
+<a href="mailto:sandipsharanskumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 - Skills
 
