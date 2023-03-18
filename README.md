@@ -5,9 +5,9 @@
 </p>
 
 
-:man_student: I’m currently pursuing my master's in Robotics Engineering at University of Maryland - College Park.<\br>
-:speaking_head: I’m currently looking for summer internships in the field of Robotics.<\br>
-:eye_speech_bubble: I’m currently focusing on Machine learning and computer vision aspect of Robotics. <\br>
+:man_student: I’m currently pursuing my master's in Robotics Engineering at University of Maryland - College Park.</br>
+:speaking_head: I’m currently looking for summer internships in the field of Robotics.</br>
+:eye_speech_bubble: I’m currently focusing on Machine learning and computer vision aspect of Robotics. </br>
 
 <a href="https://www.linkedin.com/in/sandip26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark"></a>
 <a href="mailto:sandipsharanskumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
