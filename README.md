@@ -8,23 +8,19 @@
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me **[My Website](https://sandipsharan.vercel.app/)**:
 
 <img  src="./thoughtworks-gif_dribbble.gif" width="390px" height="270px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://sandipsharan.vercel.app/)**
-
-- 👯 I’m seeking for `Full-Time Opportunities in the field of Computer Vision and Machine learning`
+- 🙋‍♂️ I’m seeking for `Full-Time Opportunities in the field of Computer Vision and Machine learning`
 
 - 🔭 I’m currently working on `Autonomous Driving Simulator`.
 
 - 🌱 I’m currently learning `Reinforcement Learning`
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
 - 💬 Ask me about anything related to Robotics :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned
 
 - ⚡ Fun fact: I waste most of my time playing games and watching anime
 
