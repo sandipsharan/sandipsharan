@@ -76,7 +76,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://sandipsharan.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" height="30px" /></a> <a href="https://www.linkedin.com/in/sandipsharan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/p.i.k.a__c.h.u" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="https://sandipsharan.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-8A2BE2?style=plastic&logoColor=white&color=purple" height="30px" /></a> <a href="https://www.linkedin.com/in/sandipsharan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/p.i.k.a__c.h.u" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 
