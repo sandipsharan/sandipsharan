@@ -39,6 +39,8 @@
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 
 </br>
+</br>
+
 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-8A2BE2?logo=linux&logoColor=white&color=%23FCC624" height="25px"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-8A2BE2?logo=windows10&logoColor=white&color=%230078D4" height="25px"/>
@@ -48,6 +50,7 @@
 <img alt="Colab" src="https://img.shields.io/badge/Google%20Colab-8A2BE2?logo=googlecolab&logoColor=white&color=%23F9AB00" height="25px"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-8A2BE2?logo=pycharm&logoColor=white&color=%23000000" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+</br>
 </br>
 
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px">
@@ -60,13 +63,15 @@
 <img alt="SUMO" src="https://img.shields.io/badge/SUMO-8A2BE2?logoColor=white&color=Green" height="25px">
 <img alt="RoadRunner" src="https://img.shields.io/badge/RoadRunner-8A2BE2?logoColor=white&color=yellow" height="25px">
 <img alt="Gazebo" src="https://img.shields.io/badge/Gazebo-8A2BE2?logoColor=white&color=orange" height="25px">
-
+</br>
 </br>
 
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8A2BE2?logo=scipy&logoColor=white&color=%238CAAE6">
 <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
+</br>
+</br>
 
 </p>
 
