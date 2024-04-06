@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" width="250px" height="250px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" width="290px" height="270px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://sandipsharan.vercel.app/)**
 
