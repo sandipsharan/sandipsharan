@@ -65,10 +65,10 @@
 </br>
 </br>
 
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"height="25px">
-<img alt="SciPy" src="https://img.shields.io/badge/SciPy-8A2BE2?logo=scipy&logoColor=white&color=%238CAAE6"height="25px">
-<img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"height="25px">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"height="25px"> 
+<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px">
+<img alt="SciPy" src="https://img.shields.io/badge/SciPy-8A2BE2?logo=scipy&logoColor=white&color=%238CAAE6" height="25px">
+<img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"> 
 </br>
 </br>
 
