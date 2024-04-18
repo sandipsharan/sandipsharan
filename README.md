@@ -14,7 +14,7 @@
 
 - 🙋‍♂️ I’m seeking for `Full-Time Opportunities in the field of Computer Vision and Machine learning`
 
-- 🔭 I’m currently working on `Autonomous Driving Simulator`.
+- 🔭 I’m currently working on `Autonomous Vehicle Driving Simulator`.
 
 - 🌱 I’m currently learning `Reinforcement Learning`
 
