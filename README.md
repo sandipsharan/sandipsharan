@@ -8,7 +8,7 @@
 
  <br/>
 
-## 👨🏻‍💻 About Me **[My Website](https://sandipsharan.vercel.app/)**:
+## 👨🏻‍💻 About Me **[My Website](https://sandipsharan.github.io/)**:
 
 <img  src="./thoughtworks-gif_dribbble.gif" width="390px" height="270px" align="right" />
 
